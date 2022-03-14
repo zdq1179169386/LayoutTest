@@ -1,0 +1,6 @@
+module Pods_LayoutTest {
+  umbrella header "Pods-LayoutTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
